@@ -1,0 +1,31 @@
+Exercises 1-10
+1.a.B
+  b.C
+  c.C
+  d.B
+  e.C
+  f.A
+  g.C
+  h.C
+  i.C
+  j.B
+2.a.B
+  b.C
+  c.C
+  d.A
+  e.C
+  f.A
+  g.C
+  h.C
+  i.B
+  j.B
+3.a.wall,floor,tables
+  b.Money,Documents,Coverage
+  c.Money,Costs,bill
+4.a.It,Emoji Movie,Close Encounters
+  b.Mortal Combots,Combustible Lemons,Disruptive Inovation
+  c.Motzart,beethoven,bach
+5.a.elementary school,pre school,jr high school
+  b.breakfast,lunch,dinner
+  c.porch,house,living room
+   
